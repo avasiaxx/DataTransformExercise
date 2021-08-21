@@ -1,5 +1,5 @@
 # DataTransformExercise
-##Stiles-Elizabeth
+#Stiles-Elizabeth
 An application that parses three delimited files, formats and sorts their output then prints the 3 outputs into an output file
 
 INSTRUCTIONS TO BUILD
